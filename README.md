@@ -13,6 +13,7 @@ Este caso consiste em testar a pesquisa do Google, para isso foi adicionado os s
 Para aceitação deste teste, deverá ser exibida a tela de resultado da busca do termo.
 
 
+
 Caso de Teste 02:
 
 O presente caso de teste se encontra no arquivo "UnitTest2.cs".
@@ -23,6 +24,7 @@ Este caso consiste em testar o link do "Gmail" fixado na página inicial do Goog
 2) Clicar no link do "Gmail".
 
 Para aceitação deste teste, deverá ser exibida a tela inicial do "Gmail".
+
 
 
 Caso de Teste 03:
